@@ -29,4 +29,4 @@ Install dependencies:
 ```bash
 pip install opencv-python numpy scipy
 python main.py
-'''
+```
