@@ -13,7 +13,7 @@ def main():
         max_missed_frames=10
     )
     
-    cap = cv2.VideoCapture("videos/video-6.mp4")
+    cap = cv2.VideoCapture(r"DM-project---Moving-Object-Detection-and-Tracking\videos\video6.avi")
 
     while True:
         ret, frame = cap.read()
